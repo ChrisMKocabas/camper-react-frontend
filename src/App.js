@@ -14,7 +14,7 @@ import { far } from "@fortawesome/free-regular-svg-icons";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/camper-react-frontend">
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home} />

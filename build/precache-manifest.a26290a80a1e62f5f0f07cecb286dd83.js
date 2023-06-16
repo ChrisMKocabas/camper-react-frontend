@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aab45a1096011fc586d4f4232b7e5f50",
+    "revision": "ef968447593f9fa4e5e0a40dd89056ad",
     "url": "/github.io/camper-react-frontend/index.html"
   },
   {
-    "revision": "28167f4ab65d6e8268f1",
+    "revision": "fa5ecee6877b6e327d51",
     "url": "/github.io/camper-react-frontend/static/css/main.c982f767.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/camper-react-frontend/static/js/2.e1b2fd99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28167f4ab65d6e8268f1",
-    "url": "/github.io/camper-react-frontend/static/js/main.3f69b4e8.chunk.js"
+    "revision": "fa5ecee6877b6e327d51",
+    "url": "/github.io/camper-react-frontend/static/js/main.b1f2722e.chunk.js"
   },
   {
     "revision": "8313eeef29cca23bc3e5",

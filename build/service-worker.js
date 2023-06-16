@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/github.io/camper-react-frontend/precache-manifest.435721fa8f3907a2584fd5e075ef428c.js"
+  "/github.io/camper-react-frontend/precache-manifest.a26290a80a1e62f5f0f07cecb286dd83.js"
 );
 
 self.addEventListener('message', (event) => {

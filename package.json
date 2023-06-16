@@ -1,8 +1,8 @@
 {
   "name": "navbar-dropdown-v1",
-  "homepage": "https://ChrisMKocabas/github.io/camper-react-frontend",
+  "homepage": "https://ChrisMKocabas/github.io/camper-react-frontend/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
