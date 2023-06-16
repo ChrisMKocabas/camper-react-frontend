@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github.io/camper-react-frontend/static/css/main.c982f767.chunk.css",
-    "main.js": "/github.io/camper-react-frontend/static/js/main.3f69b4e8.chunk.js",
-    "main.js.map": "/github.io/camper-react-frontend/static/js/main.3f69b4e8.chunk.js.map",
+    "main.js": "/github.io/camper-react-frontend/static/js/main.b1f2722e.chunk.js",
+    "main.js.map": "/github.io/camper-react-frontend/static/js/main.b1f2722e.chunk.js.map",
     "runtime-main.js": "/github.io/camper-react-frontend/static/js/runtime-main.041ed325.js",
     "runtime-main.js.map": "/github.io/camper-react-frontend/static/js/runtime-main.041ed325.js.map",
     "static/js/2.e1b2fd99.chunk.js": "/github.io/camper-react-frontend/static/js/2.e1b2fd99.chunk.js",
     "static/js/2.e1b2fd99.chunk.js.map": "/github.io/camper-react-frontend/static/js/2.e1b2fd99.chunk.js.map",
     "index.html": "/github.io/camper-react-frontend/index.html",
-    "precache-manifest.435721fa8f3907a2584fd5e075ef428c.js": "/github.io/camper-react-frontend/precache-manifest.435721fa8f3907a2584fd5e075ef428c.js",
+    "precache-manifest.a26290a80a1e62f5f0f07cecb286dd83.js": "/github.io/camper-react-frontend/precache-manifest.a26290a80a1e62f5f0f07cecb286dd83.js",
     "service-worker.js": "/github.io/camper-react-frontend/service-worker.js",
     "static/css/main.c982f767.chunk.css.map": "/github.io/camper-react-frontend/static/css/main.c982f767.chunk.css.map",
     "static/js/2.e1b2fd99.chunk.js.LICENSE.txt": "/github.io/camper-react-frontend/static/js/2.e1b2fd99.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.041ed325.js",
     "static/js/2.e1b2fd99.chunk.js",
     "static/css/main.c982f767.chunk.css",
-    "static/js/main.3f69b4e8.chunk.js"
+    "static/js/main.b1f2722e.chunk.js"
   ]
 }
