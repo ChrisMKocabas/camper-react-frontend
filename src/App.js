@@ -12,9 +12,10 @@ import { fas } from "@fortawesome/free-solid-svg-icons";
 import { far } from "@fortawesome/free-regular-svg-icons";
 
 function App() {
+  console.log(process.env.PUBLIC_URL);
   return (
     <>
-      <Router basename="/camper-react-frontend">
+      <Router basename={process.env.PUBLIC_URL}>
         <Navbar />
         <Switch>
           <Route path="/" exact component={Home} />
