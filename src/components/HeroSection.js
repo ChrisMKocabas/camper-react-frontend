@@ -4,12 +4,15 @@ import { Button } from "./Button";
 import "./HeroSection.css";
 import ReactPlayer from "react-player";
 
+var path = process.env.PUBLIC_URL;
+var image = "/videos/video-1.mp4";
+console.log(path + image);
 function HeroSection() {
   return (
     <div className="hero-container">
       <ReactPlayer
         className="video-player"
-        url="videos/video-1.mp4"
+        url={path + image}
         muted={true}
         loop
         playing={true}
