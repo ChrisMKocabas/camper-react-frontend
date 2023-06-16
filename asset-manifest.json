@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/camper-react-frontend.git/static/css/main.c982f767.chunk.css",
+    "main.js": "/github.io/camper-react-frontend.git/static/js/main.3f69b4e8.chunk.js",
+    "main.js.map": "/github.io/camper-react-frontend.git/static/js/main.3f69b4e8.chunk.js.map",
+    "runtime-main.js": "/github.io/camper-react-frontend.git/static/js/runtime-main.afda5973.js",
+    "runtime-main.js.map": "/github.io/camper-react-frontend.git/static/js/runtime-main.afda5973.js.map",
+    "static/js/2.e1b2fd99.chunk.js": "/github.io/camper-react-frontend.git/static/js/2.e1b2fd99.chunk.js",
+    "static/js/2.e1b2fd99.chunk.js.map": "/github.io/camper-react-frontend.git/static/js/2.e1b2fd99.chunk.js.map",
+    "index.html": "/github.io/camper-react-frontend.git/index.html",
+    "precache-manifest.247107b289d7580fe9afdea7d6a017f0.js": "/github.io/camper-react-frontend.git/precache-manifest.247107b289d7580fe9afdea7d6a017f0.js",
+    "service-worker.js": "/github.io/camper-react-frontend.git/service-worker.js",
+    "static/css/main.c982f767.chunk.css.map": "/github.io/camper-react-frontend.git/static/css/main.c982f767.chunk.css.map",
+    "static/js/2.e1b2fd99.chunk.js.LICENSE.txt": "/github.io/camper-react-frontend.git/static/js/2.e1b2fd99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afda5973.js",
+    "static/js/2.e1b2fd99.chunk.js",
+    "static/css/main.c982f767.chunk.css",
+    "static/js/main.3f69b4e8.chunk.js"
+  ]
+}
